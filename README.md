@@ -10,9 +10,9 @@ This site is for the reading notes that will be taken throughout the course of 3
 ## Code 301 - Intermediate Software Development
 
 ### Table of Contents
-- [01-Read:](01-Read.md)
-- [02-Read:](02-Read.md)
-- [03-Read:](03-Read.md)
+- [01-Read: RWD & CSS](01-Read.md)
+- [02-Read: JQuery and Pair Programming](02-Read.md)
+- [03-Read: MUSTACHE and FLEXBOX](03-Read.md)
 - [04-Read:](04-Read.md)
 - [05-Read:](05-Read.md)
 - [06-Read:](06-Read.md)
