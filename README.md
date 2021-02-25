@@ -22,8 +22,8 @@ This site is for the reading notes that will be taken throughout the course of 3
 - [10-Read: The Call Stack and Debugging](10-Read.md)
 - [11-Read: EJS](11-Read.md)
 - [12-Read: EJS Partials](12-Read.md)
-- [13-Read:](13-Read.md)
-- [14-Read:](14-Read.md)
+- [13-Read: Sending Form Data](13-Read.md)
+- [14-Read: DATABASE NORMALIZATION](14-Read.md)
 - [15-Read:](15-Read.md)
 
 
