@@ -24,7 +24,7 @@ This site is for the reading notes that will be taken throughout the course of 3
 - [12-Read: EJS Partials](12-Read.md)
 - [13-Read: Sending Form Data](13-Read.md)
 - [14-Read: DATABASE NORMALIZATION](14-Read.md)
-- [15-Read:](15-Read.md)
+- [15-Read: Diversity & Inclusion in the Tech Industry](15-Read.md)
 
 
 ## Code 401 - Advanced Software Development
