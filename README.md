@@ -28,4 +28,11 @@ This site is for the reading notes that will be taken throughout the course of 3
 
 
 ## Code 401 - Advanced Software Development
-
+- [01-notes: Exception Handling](01-notes.md)
+- [02-notes: ](02-notes.md)
+- [03-notes: ](03-notes.md)
+- [04-notes: ](04-notes.md)
+- [05-notes: ](05-notes.md)
+- [06-notes: ](06-notes.md)
+- [07-notes: ](07-notes.md)
+- [08-notes: ](08-notes.md)
