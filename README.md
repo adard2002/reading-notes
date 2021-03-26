@@ -33,6 +33,6 @@ This site is for the reading notes that will be taken throughout the course of 3
 - [03-notes: File Manipulation / System.I.O](03-notes.md)
 - [04-notes: Classes & Memory Management](04-notes.md)
 - [05-notes: Linked Lists](05-notes.md)
-- [06-notes: ](06-notes.md)
+- [06-notes: Object Oriented Principles](06-notes.md)
 - [07-notes: ](07-notes.md)
 - [08-notes: ](08-notes.md)
