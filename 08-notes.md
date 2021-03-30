@@ -27,14 +27,14 @@
 Using this method the collections in the namespace are safe thread-safe operations for collecting items from multiple threads
 
 #### 3. System.Collections classes: Do not store elements as specific as typed objects, rather as objects of type Object
-| Class | Description |
-|:-----:|:-----------:|
-| ArrayList | Represents an array objects whose size is increased as required |
-| Hashtable | Represents a collection of key/value pairs organized by the hashcode of their key |
-| Queue | Represents (FIFO) collection of objects |
-| stack | Represents (LIFO) collection of objects |
+|   Class   |             |Description |
+|:-----:|:-----------:|-----------:|
+| ArrayList | | Represents an array objects whose size is increased as required |
+| Hashtable | | Represents a collection of key/value pairs organized by the hashcode of their key |
+| Queue | | Represents (FIFO) collection of objects |
+| stack | | Represents (LIFO) collection of objects |
 
-Original Charts can be found on this site: ![Collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
+Original Charts can be found on this site: [Collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
 
 ## Enums
 ### What is an Enumeration type?
@@ -42,10 +42,11 @@ Original Charts can be found on this site: ![Collections](https://docs.microsoft
 Example: <br>
 ``` enum Season
 {
-    Spring, <br>
-    Summer, <br>
-    Autumn, <br>
-    Winter  <br>
+    Spring,
+    Summer,
+    Autumn,
+    Winter  
 }
 ```
+<br>
 As you can see in this example the enum members are Spring, Summer, Autumn, and Winter. While the Season is the enumeration type. The constant values of enum members are of type int; meaning that they start with zero and increase by one.
