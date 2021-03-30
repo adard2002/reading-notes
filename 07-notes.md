@@ -26,7 +26,6 @@ I was having a hard time understanding what they are saying about Interface.
 - Total abstraction
 - Multiple inheritance and abstraction
 
-
 [Interfaces](https://www.guru99.com/c-sharp-interface.html)
 - Used along with classes to define a contract; a contract is like garanteeing what a class will provide for an application.
 - Declares properties and methods.
