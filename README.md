@@ -40,7 +40,7 @@ This site is for the reading notes that will be taken throughout the course of 3
 - [10-notes: Stacks and Queues](10-notes.md)
 - [11-notes: ERDs](11-notes.md)
 - [12-notes: Entity Framework Core and APIs](12-notes.md)
-- [13-notes: ](13-notes.md)
+- [13-notes: Dependency Injection](13-notes.md)
 - [14-notes: ](14-notes.md)
 - [15-notes: ](15-notes.md)
 - [16-notes: ](16-notes.md)
