@@ -42,7 +42,7 @@ This site is for the reading notes that will be taken throughout the course of 3
 - [12-notes: Entity Framework Core and APIs](12-notes.md)
 - [13-notes: Dependency Injection](13-notes.md)
 - [14-notes: Routing and Navigation Properties](14-notes.md)
-- [15-notes: ](15-notes.md)
+- [15-notes: Trees](15-notes.md)
 - [16-notes: ](16-notes.md)
 - [17-notes: ](17-notes.md)
 - [18-notes: ](18-notes.md)
