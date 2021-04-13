@@ -45,6 +45,6 @@ This site is for the reading notes that will be taken throughout the course of 3
 - [15-notes: Trees](15-notes.md)
 - [16-notes: Data Transfer Objects](16-notes.md)
 - [17-notes: Intro to Identity](17-notes.md)
-- [18-notes: ](18-notes.md)
+- [18-notes: JWT Tokens and Claims](18-notes.md)
 - [19-notes: ](19-notes.md)
 
