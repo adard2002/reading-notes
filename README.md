@@ -47,7 +47,7 @@ This site is for the reading notes that will be taken throughout the course of 3
 - [17-notes: Intro to Identity](17-notes.md)
 - [18-notes: JWT Tokens and Claims](18-notes.md)
 - [19-notes: Roles, Claims and JWT Tokens](19-notes.md)
-- [20-notes: ](20-notes.md)
+- [20-notes: Intro to MVC](20-notes.md)
 - [21-notes: ](21-notes.md)
 - [22-notes: ](22-notes.md)
 - [23-notes: ](23-notes.md)
