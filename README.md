@@ -50,7 +50,7 @@ This site is for the reading notes that will be taken throughout the course of 3
 - [20-notes: Intro to MVC](20-notes.md)
 - [27-notes: Roles, Claims and JWT Tokens](21-notes.md)
 - [28-notes: MVC Forms](28-notes.md)
-- [29-notes: ](29-notes.md)
+- [29-notes: Azure Blobs](29-notes.md)
 - [30-notes: ](30-notes.md)
 - [31-notes: ](31-notes.md)
 - [32-notes: ](32-notes.md)
