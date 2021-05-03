@@ -53,6 +53,6 @@ This site is for the reading notes that will be taken throughout the course of 3
 - [29-notes: Azure Blobs](29-notes.md)
 - [30-notes: Implementation: Hash Tables](30-notes.md)
 - [31-notes: Razor Pages](31-notes.md)
-- [32-notes: ](32-notes.md)
+- [32-notes: View Components](32-notes.md)
 - [33-notes: ](33-notes.md)
 
