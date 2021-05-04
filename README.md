@@ -54,5 +54,12 @@ This site is for the reading notes that will be taken throughout the course of 3
 - [30-notes: Implementation: Hash Tables](30-notes.md)
 - [31-notes: Razor Pages](31-notes.md)
 - [32-notes: View Components](32-notes.md)
-- [33-notes: ](33-notes.md)
+- [33-notes: Sendgrid](33-notes.md)
+- [34-notes: ](34-notes.md)
+- [35-notes: ](35-notes.md)
+- [36-notes: ](36-notes.md)
+- [37-notes: ](37-notes.md)
+- [38-notes: ](38-notes.md)
+- [39-notes: ](39-notes.md)
+- [40-notes: ](40-notes.md)
 
