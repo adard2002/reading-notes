@@ -55,7 +55,7 @@ This site is for the reading notes that will be taken throughout the course of 3
 - [31-notes: Razor Pages](31-notes.md)
 - [32-notes: View Components](32-notes.md)
 - [33-notes: Sendgrid](33-notes.md)
-- [34-notes: ](34-notes.md)
+- [34-notes: Xamarin](34-notes.md)
 - [35-notes: ](35-notes.md)
 - [36-notes: ](36-notes.md)
 - [37-notes: ](37-notes.md)
