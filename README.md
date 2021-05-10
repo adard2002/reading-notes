@@ -58,7 +58,7 @@ This site is for the reading notes that will be taken throughout the course of 3
 - [34-notes: Xamarin](34-notes.md)
 - [35-notes: Graphs](35-notes.md)
 - [36-notes: Xamarin](36-notes.md)
-- [37-notes: Payment Processing](37-notes.md)
+- [37-notes: Xamarin: Data Services](37-notes.md)
 - [38-notes: ](38-notes.md)
 - [39-notes: ](39-notes.md)
 - [40-notes: ](40-notes.md)
