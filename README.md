@@ -61,5 +61,6 @@ This site is for the reading notes that will be taken throughout the course of 3
 - [37-notes: Xamarin: Data Services](37-notes.md)
 - [38-notes: Xamarin: Device Features](38-notes.md)
 - [41-notes: React Native](41-notes.md)
-- [42-notes: ](42-notes.md)
+- [42-notes: Ethics](42-notes.md)
+- [43-notes: Open-Source Software Contribution](43-notes.md)
 
